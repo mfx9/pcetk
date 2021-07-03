@@ -1,5 +1,5 @@
 # pcetk
 
-:warning: Pcetk has now been integrated into the incoming release of pDynamo, known as pDynamo 3. :warning:
+:warning: Pcetk has been integrated into pDynamo 3. :warning:
 
-A legacy version of Pcetk is kept here: https://github.com/mikolajfeliks/pcetk
+The legacy version of Pcetk is still available here: https://github.com/mikolajfeliks/pcetk
